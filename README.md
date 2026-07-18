@@ -120,7 +120,7 @@ jupyter notebook air_quality_eda.ipynb
 air-pollution-eda/
 ├── air_quality_eda.ipynb   # основной анализ (Jupyter)
 ├── air_pollution.csv        # датасет
-├── queries.sql              # аналитические SQL-запросы (реальные, не заглушки)
+├── queries.sql              # аналитические SQL-запросы
 ├── images/                  # экспортированные графики
 ├── requirements.txt
 └── README.md
