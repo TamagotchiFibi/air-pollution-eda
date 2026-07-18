@@ -1,0 +1,5 @@
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.13
+notebook>=7.0
+# sqlite3 входит в стандартную библиотеку Python - отдельно ставить не нужно
